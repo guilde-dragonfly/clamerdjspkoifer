@@ -1,17 +1,45 @@
 {
-  "type": "video",
-  "url": "http://www.youtube.com/watch?v=jofNR_WkoCE",
-  "provider_name": "YouTube",
-  "provider_url": "https://www.youtube.com/", 
-  "title": "Ylvis - The Fox (What Does The Fox Say?) [Official music video HD]",
-  "description": "iTunes: http://smarturl.it/YlvisFox Fra I kveld med Y...", 
-  "author_name": "TVNorge",
-  "author_url": "https://www.youtube.com/user/tvnorge",
-  "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjofNR_WkoCE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjofNR_WkoCE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjofNR_WkoCE%2Fhqdefault.jpg&key=internal&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>",
-  "width": 854,
-  "height": 480, 
-  "thumbnail_url": "https://i.ytimg.com/vi/jofNR_WkoCE/hqdefault.jpg", 
-  "thumbnail_width": 480,
-  "thumbnail_height": 360,
-  "version": "1.0"
+  "reactions": [
+    {
+      "count": 1,
+      "me": false,
+      "emoji": {
+        "id": null,
+        "name": "🔥"
+      }
+    }
+  ],
+  "attachments": [],
+  "tts": false,
+  "embeds": [],
+  "timestamp": "2017-07-11T17:27:07.299000+00:00",
+  "mention_everyone": false,
+  "id": "334385199974967042",
+  "pinned": false,
+  "edited_timestamp": null,
+  "author": {
+    "username": "Mason",
+    "discriminator": "9999",
+    "id": "53908099506183680",
+    "avatar": "a_bab14f271d565501444b2ca3be944b25"
+  },
+  "mention_roles": [],
+  "mention_channels": [
+    {
+      "id": "278325129692446722",
+      "guild_id": "278325129692446720",
+      "name": "big-news",
+      "type": 5
+    }
+  ],
+  "content": "Big news! In this <#278325129692446722> channel!",
+  "channel_id": "290926798999357250",
+  "mentions": [],
+  "type": 0,
+  "flags": 2,
+  "message_reference": {
+    "channel_id": "278325129692446722",
+    "guild_id": "278325129692446720",
+    "message_id": "306588351130107906"
+  }
 }
